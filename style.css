@@ -322,3 +322,11 @@ body {
     bottom: 28px;
     left: -13px;
 }
+
+@media (max-width: 480px) {
+    .container {
+        height: 649px;
+        width: 649px;
+        margin: 0;
+    }
+}
