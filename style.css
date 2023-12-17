@@ -325,7 +325,7 @@ body {
 
 @media (max-width: 480px) {
     .container {
-        height: 649px;
+        height: 90vh;
         width: 649px;
         margin: 0;
     }
